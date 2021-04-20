@@ -165,7 +165,7 @@ namespace CSProject
             }
             else
             {
-                Console.WriteLine("File does not exist");
+                Console.WriteLine("File does not exist haha");
             }
 
             return myStaff;
