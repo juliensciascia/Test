@@ -319,7 +319,7 @@ namespace CSProject
                 }
                 catch(Exception e)
                 {
-                    Console.WriteLine("Enter a correct number of hours");
+                    Console.WriteLine("Enter a correct number for hours");
                     i--;
                 }
             }
